@@ -1,1 +1,2 @@
-# EV_Adoption
+# EV_Adoption_Analysis
+This dashboard offers an in-depth look at how EV sales, inventory, and market share have changed across various global regions. We will analyze the trends in EV adoption, focusing on yearly sales, geographic distribution, and market changes across different powertrain types (EV, BEV, PHEV). Our aim is to pinpoint the most dynamic markets and assess the influence of public policies on EV adoption.
