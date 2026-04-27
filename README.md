@@ -85,7 +85,7 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <p align="center"><em>EV Stock by Powertrain — BEV vs. PHEV breakdown</em></p>
 
 <p align="center">
-  <img src="screenshot/electricity-demand-oil-displacement.PNG" alt="Electricity Demand and Oil Displacement by Year" width="700"/>
+  <img src="screenshort/electricity-demand-oil-displacement.PNG" alt="Electricity Demand and Oil Displacement by Year" width="700"/>
 </p>
 <p align="center"><em>Energy Impact — Electricity Demand growth & Oil Displacement by year</em></p>
 
