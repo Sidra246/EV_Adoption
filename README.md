@@ -41,7 +41,7 @@ The dashboard surfaces four headline KPIs at a glance, providing an immediate sn
 | **Stock Share %** | EVs as a proportion of total vehicle fleet |
 
 <p align="center">
-  <img src="screenshot/kpi-cards.png" alt="KPI Cards — Total Sales, Stock, Sales Share, Stock Share" width="800"/>
+  <img src="screenshort/kpi-cards.PNG" alt="KPI Cards — Total Sales, Stock, Sales Share, Stock Share" width="800"/>
 </p>
 <p align="center"><em>KPI Cards — Headline metrics at a glance</em></p>
 
@@ -65,27 +65,27 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <br>
 
 <p align="center">
-  <img src="screenshot/yearly-trend-sales-stock.png" alt="Yearly Trend for EV Sales and Stock" width="700"/>
+  <img src="screenshot/yearly-trend-sales-stock.PNG" alt="Yearly Trend for EV Sales and Stock" width="700"/>
 </p>
 <p align="center"><em>Yearly Trend — EV Sales & Stock growth over time</em></p>
 
 <p align="center">
-  <img src="screenshot/sales-stock-by-region.png" alt="EV Sales and Stock by Region" width="700"/>
+  <img src="screenshot/sales-stock-by-region.PNG" alt="EV Sales and Stock by Region" width="700"/>
 </p>
 <p align="center"><em>Sales & Stock by Region — Comparing global markets</em></p>
 
 <p align="center">
-  <img src="screenshot/sales-stock-share-by-region.png" alt="EV Sales Share and Stock Share by Region" width="700"/>
+  <img src="screenshot/sales-stock-share-by-region.PNG" alt="EV Sales Share and Stock Share by Region" width="700"/>
 </p>
 <p align="center"><em>Sales Share & Stock Share by Region — Market penetration by geography</em></p>
 
 <p align="center">
-  <img src="screenshot/ev-stock-by-powertrain.png" alt="EV Stock by Powertrain — BEV vs PHEV" width="500"/>
+  <img src="screenshot/ev-stock-by-powertrain.PNG" alt="EV Stock by Powertrain — BEV vs PHEV" width="500"/>
 </p>
 <p align="center"><em>EV Stock by Powertrain — BEV vs. PHEV breakdown</em></p>
 
 <p align="center">
-  <img src="screenshot/electricity-demand-oil-displacement.png" alt="Electricity Demand and Oil Displacement by Year" width="700"/>
+  <img src="screenshot/electricity-demand-oil-displacement.PNG" alt="Electricity Demand and Oil Displacement by Year" width="700"/>
 </p>
 <p align="center"><em>Energy Impact — Electricity Demand growth & Oil Displacement by year</em></p>
 
@@ -101,7 +101,7 @@ The dashboard includes dynamic slicers that allow users to filter all visuals si
 - **Sales vs. Stock Metric Toggle** — switch between viewing sales figures and cumulative stock across visuals
 
 <p align="center">
-  <img src="screenshot/interactive-filters.png" alt="Dashboard Interactive Filters and Slicers" width="800"/>
+  <img src="screenshot/interactive-filters.PNG" alt="Dashboard Interactive Filters and Slicers" width="800"/>
 </p>
 <p align="center"><em>Interactive Filters — Slicers for Year, Region, Powertrain, and Metric Toggle</em></p>
 
