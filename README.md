@@ -70,7 +70,7 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <p align="center"><em>Yearly Trend — EV Sales & Stock growth over time</em></p>
 
 <p align="center">
-  <img src="screenshort/sales-stock-share-by-region.PNG" alt="EV Sales and Stock by Region" width="700"/>
+  <img src="screenshort/sales-stock-by-region.PNG" alt="EV Sales and Stock by Region" width="700"/>
 </p>
 <p align="center"><em>Sales & Stock by Region — Comparing global markets</em></p>
 
