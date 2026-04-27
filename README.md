@@ -4,7 +4,7 @@
 > Prepared from Power BI Dashboard | November 2025
 
 <p align="center">
-  <img src="screenshot/dashboard-overview.png" alt="EV Adoption Analysis — Full Dashboard Overview" width="900"/>
+  <img src="screenshort/dashboard-overview.PNG" alt="EV Adoption Analysis — Full Dashboard Overview" width="900"/>
 </p>
 <p align="center"><em>Full Dashboard Overview — EV Adoption Analysis</em></p>
 
