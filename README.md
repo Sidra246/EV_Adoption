@@ -65,7 +65,7 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <br>
 
 <p align="center">
-  <img src="screenshot/yearly-trend-sales-stock.PNG" alt="Yearly Trend for EV Sales and Stock" width="700"/>
+  <img src="screenshort/yearly-trend-sales-stock.PNG" alt="Yearly Trend for EV Sales and Stock" width="700"/>
 </p>
 <p align="center"><em>Yearly Trend — EV Sales & Stock growth over time</em></p>
 
