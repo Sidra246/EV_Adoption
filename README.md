@@ -21,7 +21,7 @@
 This report summarizes the findings of the EV Adoption Analysis Power BI dashboard, which provides a comprehensive view of global Electric Vehicle (EV) adoption trends. The analysis examines both EV sales performance and EV stock (cumulative fleet size) across regions, powertrain types, and time periods.
 
 The dashboard is designed to help stakeholders understand the pace and scale of the EV transition, and to assess its broader energy and environmental implications — specifically the resulting growth in electricity demand and the displacement of oil consumption.
-
+![Dashboard Overview](screenshort/1.png)
 ---
 
 ## 2. Key Performance Indicators
