@@ -101,7 +101,7 @@ The dashboard includes dynamic slicers that allow users to filter all visuals si
 - **Sales vs. Stock Metric Toggle** — switch between viewing sales figures and cumulative stock across visuals
 
 <p align="center">
-  <img src="screenshot/interactive-filters.PNG" alt="Dashboard Interactive Filters and Slicers" width="800"/>
+  <img src="screenshort/interactive-filters.PNG" alt="Dashboard Interactive Filters and Slicers" width="800"/>
 </p>
 <p align="center"><em>Interactive Filters — Slicers for Year, Region, Powertrain, and Metric Toggle</em></p>
 
