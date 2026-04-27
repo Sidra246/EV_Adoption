@@ -3,6 +3,11 @@
 > **Global Electric Vehicle Trends — Dashboard Report Summary**
 > Prepared from Power BI Dashboard | November 2025
 
+<p align="center">
+  <img src="screenshot/dashboard-overview.png" alt="EV Adoption Analysis — Full Dashboard Overview" width="900"/>
+</p>
+<p align="center"><em>Full Dashboard Overview — EV Adoption Analysis</em></p>
+
 ---
 
 ## Table of Contents
@@ -21,7 +26,7 @@
 This report summarizes the findings of the EV Adoption Analysis Power BI dashboard, which provides a comprehensive view of global Electric Vehicle (EV) adoption trends. The analysis examines both EV sales performance and EV stock (cumulative fleet size) across regions, powertrain types, and time periods.
 
 The dashboard is designed to help stakeholders understand the pace and scale of the EV transition, and to assess its broader energy and environmental implications — specifically the resulting growth in electricity demand and the displacement of oil consumption.
-![Dashboard Overview](screenshort/1.png)
+
 ---
 
 ## 2. Key Performance Indicators
@@ -34,6 +39,11 @@ The dashboard surfaces four headline KPIs at a glance, providing an immediate sn
 | **Total EV Stock** | Cumulative number of EVs in circulation |
 | **Sales Share %** | EVs as a proportion of total vehicle sales |
 | **Stock Share %** | EVs as a proportion of total vehicle fleet |
+
+<p align="center">
+  <img src="screenshot/kpi-cards.png" alt="KPI Cards — Total Sales, Stock, Sales Share, Stock Share" width="800"/>
+</p>
+<p align="center"><em>KPI Cards — Headline metrics at a glance</em></p>
 
 ---
 
@@ -52,6 +62,33 @@ The report includes eight analytical visuals covering sales, stock, regional per
 | **Electricity Demand by Year** | Line Chart | Illustrates how growing EV adoption translates into increased electricity consumption. |
 | **Oil Displacement by Year** | Line Chart | Quantifies oil demand displaced by EVs in million barrels/day and million lge — a key sustainability metric. |
 
+<br>
+
+<p align="center">
+  <img src="screenshot/yearly-trend-sales-stock.png" alt="Yearly Trend for EV Sales and Stock" width="700"/>
+</p>
+<p align="center"><em>Yearly Trend — EV Sales & Stock growth over time</em></p>
+
+<p align="center">
+  <img src="screenshot/sales-stock-by-region.png" alt="EV Sales and Stock by Region" width="700"/>
+</p>
+<p align="center"><em>Sales & Stock by Region — Comparing global markets</em></p>
+
+<p align="center">
+  <img src="screenshot/sales-stock-share-by-region.png" alt="EV Sales Share and Stock Share by Region" width="700"/>
+</p>
+<p align="center"><em>Sales Share & Stock Share by Region — Market penetration by geography</em></p>
+
+<p align="center">
+  <img src="screenshot/ev-stock-by-powertrain.png" alt="EV Stock by Powertrain — BEV vs PHEV" width="500"/>
+</p>
+<p align="center"><em>EV Stock by Powertrain — BEV vs. PHEV breakdown</em></p>
+
+<p align="center">
+  <img src="screenshot/electricity-demand-oil-displacement.png" alt="Electricity Demand and Oil Displacement by Year" width="700"/>
+</p>
+<p align="center"><em>Energy Impact — Electricity Demand growth & Oil Displacement by year</em></p>
+
 ---
 
 ## 4. Interactive Filters
@@ -62,6 +99,11 @@ The dashboard includes dynamic slicers that allow users to filter all visuals si
 - **Region** — isolate performance for a specific geography or group of markets
 - **Powertrain Type** — distinguish between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV)
 - **Sales vs. Stock Metric Toggle** — switch between viewing sales figures and cumulative stock across visuals
+
+<p align="center">
+  <img src="screenshot/interactive-filters.png" alt="Dashboard Interactive Filters and Slicers" width="800"/>
+</p>
+<p align="center"><em>Interactive Filters — Slicers for Year, Region, Powertrain, and Metric Toggle</em></p>
 
 ---
 
@@ -88,5 +130,4 @@ The EV Adoption Analysis dashboard provides a robust, multi-dimensional view of 
 The inclusion of downstream energy metrics — electricity demand growth and oil displacement — makes this report particularly valuable for stakeholders in the energy sector, policymakers, and sustainability teams seeking to understand and quantify the real-world impact of EV adoption.
 
 ---
-
 
