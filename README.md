@@ -80,7 +80,7 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <p align="center"><em>Sales Share & Stock Share by Region — Market penetration by geography</em></p>
 
 <p align="center">
-  <img src="screenshot/ev-stock-by-powertrain.PNG" alt="EV Stock by Powertrain — BEV vs PHEV" width="500"/>
+  <img src="screenshort/ev-stock-by-powertrain.PNG" alt="EV Stock by Powertrain — BEV vs PHEV" width="500"/>
 </p>
 <p align="center"><em>EV Stock by Powertrain — BEV vs. PHEV breakdown</em></p>
 
