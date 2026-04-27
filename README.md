@@ -75,7 +75,7 @@ The report includes eight analytical visuals covering sales, stock, regional per
 <p align="center"><em>Sales & Stock by Region — Comparing global markets</em></p>
 
 <p align="center">
-  <img src="screenshot/sales-stock-share-by-region.PNG" alt="EV Sales Share and Stock Share by Region" width="700"/>
+  <img src="screenshort/sales-stock-share-by-region.PNG" alt="EV Sales Share and Stock Share by Region" width="700"/>
 </p>
 <p align="center"><em>Sales Share & Stock Share by Region — Market penetration by geography</em></p>
 
